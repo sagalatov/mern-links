@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "sagalatov mern",
+  "mongoUri": "mongodb+srv://sagalatov:588070813$@cluster0.oxjt4.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
